@@ -1,4 +1,4 @@
-# XenonHDBackupTool
+# XenonHD Backup Tool
 XenonHD Backup Tool: Privacy policy
 
 As an Android user myself, I take privacy very seriously. I am against the applications that collect your data without your knowledge.
